@@ -5,8 +5,8 @@ del **tiro parabólico** en 1º de Bachillerato, para la asignatura de Física y
 
 # Instrucciones
 
-Entra en [Mybinder](http://mybinder.org), pega esta dirección: https://github.com/nachovfranco/tiroparabolico y ¡empieza a experimentar!
+Entra en [Mybinder](http://mybinder.org), pega esta dirección: https://github.com/ignaciovidalfranco/tiroparabolico/ y ¡empieza a experimentar!
 
-Alternativamente puedes entrar haciendo click en la imagen: [![My Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/nachovfranco/tiroparabolico)
+Alternativamente puedes entrar haciendo click en la imagen: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ignaciovidalfranco/tiroparabolico/master?labpath=Tiro_Parabolico.ipynb)
 
 [![Creative Commons. BY SA NC](https://i.creativecommons.org/l/by-nc-sa/3.0/nl/88x31.png)](https://creativecommons.org/)
